@@ -7,29 +7,19 @@ hubby? except for debuging i like cluching some video games
 
 
 
-stack
-<br>
-<br>
-Python
-<br>
-PHP<br>
-C++
-<br>
-Mysql
-<br>
-javascript
-<br><br><br>
-
 currently working on
 <br>
 Arca Online – Inventory Management System is a web-based system built using PHP, MySQL, HTML, CSS, and JavaScript that helps businesses manage inventory, sales, and user accounts efficiently. It features product tracking, stock management, sales recording, receipt generation, and role-based user access through a simple and responsive interface.
 <br>
+
 <br>
 Baltazar Dental Clinic Management System is a web-based clinic management and appointment booking system built to help dental clinics manage patient records, appointments, staff, and daily operations efficiently through a modern and user-friendly interface.
 <br>
 <br>
+
 Vaxis - is a highly customizable web-based e-commerce and business management platform designed for sellers and resellers to manage their own online store. Built to support local and small businesses with big growth potential, it allows users to upload and manage products, track sales and orders, and handle payments through QR code-based GCash transactions. The platform focuses on giving businesses a flexible and user-friendly system for managing their operations online.
-<br><br>hit me up<br><br>email: renierrtambogon@gmail.com<br><br><br><br>probably debugging something right now 💀
+
+<br><br><br><br>probably debugging something right now 💀
 
 
 ## 🌐 Socials:
