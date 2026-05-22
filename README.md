@@ -79,6 +79,6 @@ Vaxis - is a highly customizable web-based e-commerce and business management pl
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=justbreath00&icon=1&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
