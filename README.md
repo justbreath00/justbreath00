@@ -20,6 +20,7 @@ Baltazar Dental Clinic Management System is a web-based clinic management and ap
 <br>
 <br>
 
+
 Vaxis - is a highly customizable web-based e-commerce and business management platform designed for sellers and resellers to manage their own online store. Built to support local and small businesses with big growth potential, it allows users to upload and manage products, track sales and orders, and handle payments through QR code-based GCash transactions. The platform focuses on giving businesses a flexible and user-friendly system for managing their operations online.
 
 <br><br><br><br>probably debugging something right now 💀
