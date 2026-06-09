@@ -6,23 +6,26 @@ learning python, php, and c++ because apparently i hate sleeping.
 hubby? except for debuging i like cluching some video games
 
 
+<h3>Currently Working On</h3>
 
-currently working on
+<strong>Arca Online – Inventory Management System</strong>
 <br>
-Arca Online – Inventory Management System is a web-based system built using PHP, MySQL, HTML, CSS, and JavaScript that helps businesses manage inventory, sales, and user accounts efficiently. It features product tracking, stock management, sales recording, receipt generation, and role-based user access through a simple and responsive interface.
-<br>
+A web-based inventory and sales management system built with PHP, MySQL, HTML, CSS, and JavaScript. Features include product and stock management, sales tracking, receipt generation, and role-based user access through a responsive interface.
+<br><br>
 
-Arca System
+<strong>Arca System</strong>
 <br>
+A business management platform focused on streamlining daily operations through integrated modules, database-driven workflows, and user-friendly management tools.
+<br><br>
 
+<strong>Baltazar Dental Clinic Management System</strong>
 <br>
-Baltazar Dental Clinic Management System is a web-based clinic management and appointment booking system built to help dental clinics manage patient records, appointments, staff, and daily operations efficiently through a modern and user-friendly interface.
+A web-based clinic management and appointment booking system designed to manage patient records, appointments, staff accounts, payments, and clinic operations through a secure and responsive interface.
+<br><br>
+
+<strong>Vaxis</strong>
 <br>
-<br>
-
-
-Vaxis - is a highly customizable web-based e-commerce and business management platform designed for sellers and resellers to manage their own online store. Built to support local and small businesses with big growth potential, it allows users to upload and manage products, track sales and orders, and handle payments through QR code-based GCash transactions. The platform focuses on giving businesses a flexible and user-friendly system for managing their operations online.
-
+A customizable e-commerce and business management platform for sellers and resellers. Features product management, order tracking, sales monitoring, and QR-based GCash payments, helping small businesses manage and grow their online presence.
 <br><br><br><br>probably debugging something right now 💀
 
 
