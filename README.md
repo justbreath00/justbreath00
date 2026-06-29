@@ -27,6 +27,7 @@ A web-based clinic management and appointment booking system designed to manage 
 <strong>Vaxis</strong>
 <br>
 A customizable e-commerce and business management platform for sellers and resellers. Features product management, order tracking, sales monitoring, and QR-based GCash payments, helping small businesses manage and grow their online presence.
+<br>
 <strong>rear</strong>
 <br>
 <strong>Atomic Bits</strong>
