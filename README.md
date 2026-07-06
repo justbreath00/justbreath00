@@ -19,7 +19,7 @@ A web-based inventory and sales management system built with PHP, MySQL, HTML, C
 A business management platform focused on streamlining daily operations through integrated modules, database-driven workflows, and user-friendly management tools.
 <br><br>
 
-<strong>Baltazar Dental Clinic Management System</strong>
+<strong>Dental Clinic App</strong>
 <br>
 A web-based clinic management and appointment booking system designed to manage patient records, appointments, staff accounts, payments, and clinic operations through a secure and responsive interface.
 <br><br>
