@@ -14,6 +14,7 @@ hubby? except for debuging i like cluching some video games
 A web-based inventory and sales management system built with PHP, MySQL, HTML, CSS, and JavaScript. Features include product and stock management, sales tracking, receipt generation, and role-based user access through a responsive interface.
 <br><br>
 
+
 <strong>Arca System</strong>
 <br>
 A business management platform focused on streamlining daily operations through integrated modules, database-driven workflows, and user-friendly management tools.
