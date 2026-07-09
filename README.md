@@ -7,7 +7,6 @@ learning python, php, and c++ because apparently i hate sleeping.
 hubby? except for debuging i like cluching some video games
 
 
-
 <h3>Currently Working On</h3>
 
 <strong>Arca Online – Inventory Management System</strong>
