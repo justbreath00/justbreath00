@@ -44,7 +44,6 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renier) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool-Ingenuity-4279) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27835202/renier-tambogon) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/temp) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renierrtambogon@gmail.com) 
 
 # 💻 Tech Stack:
@@ -93,26 +92,6 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
 
-
-
-# 💻 Tech Stack:
-
-
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justbreath00&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=justbreath00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=justbreath00&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
