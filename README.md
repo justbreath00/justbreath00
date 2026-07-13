@@ -13,7 +13,6 @@ hubby? except for debuging i like cluching some video games
 A web-based inventory and sales management system built with PHP, MySQL, HTML, CSS, and JavaScript. Features include product and stock management, sales tracking, receipt generation, and role-based user access through a responsive interface.
 <br><br>
 
-
 <strong>Arca System</strong>
 <br>
 A business management platform focused on streamlining daily operations through integrated modules, database-driven workflows, and user-friendly management tools.
@@ -36,7 +35,6 @@ A customizable e-commerce and business management platform for sellers and resel
 Atomic Bits is a modern student productivity platform designed to help learners stay organized and efficient. It brings together class management, subjects, calendars, task tracking, and collaborative tools into one intuitive workspace. With features such as personal and class task management, a Kanban board, scheduling, and a clean, responsive interface, Atomic Bits empowers students to manage their academic responsibilities, improve productivity, and stay focused throughout their educational journey.
 <br>
 <br><br><br><br>probably debugging something right now 💀
-
 
 
 ## 🌐 Socials:
