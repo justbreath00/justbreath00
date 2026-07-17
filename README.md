@@ -3,8 +3,10 @@
 
 ### Renier Tambogon<br>
 crafting code that hopefully works on the first try (spoiler it doesn't). <br>
-learning python, php, and c++ because apparently i hate sleeping.
+learning python, php, and c++ because apparently I hate sleeping.
+also
 <br>
+
 
 hubby? except for debuging i like cluching some video games
 
