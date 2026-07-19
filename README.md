@@ -3,11 +3,11 @@
 ### Renier Tambogon<br>
 crafting code that hopefully works on the first try (spoiler it doesn't). <br>
 learning python, php, and c++ because apparently I hate sleeping.
-also
+also I do like learning tech related things, even outside my curriculumn
 <br>
 
-
-hubby? except for debuging i like cluching some video games
+if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels
+<br>
 
 <h3>Currently Working On</h3>
 
