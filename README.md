@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 
-### Renier Tambogon<br>
+## Renier Tambogon<br>
 crafting code that hopefully works on the first try (spoiler it doesn't). <br>
 learning python, php, and c++ because apparently I hate sleeping.
 also I do like learning tech related things, even outside my curriculumn
@@ -41,14 +41,14 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 <br><br><br><br>probably debugging something right now 💀
 
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renierjhon.tambogon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renier) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool-Ingenuity-4279) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27835202/renier-tambogon) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renierrtambogon@gmail.com) 
 
-# 💻 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -95,7 +95,7 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 
 
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=justbreath00&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
