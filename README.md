@@ -16,7 +16,6 @@ if I have spare time I am probably playing some video games or lifting weights t
 A web-based inventory and sales management system built with PHP, MySQL, HTML, CSS, and JavaScript. Features include product and stock management, sales tracking, receipt generation, and role-based user access through a responsive interface.
 <br><br>
 
-
 <strong>Arca System</strong>
 <br>
 A business management platform focused on streamlining daily operations through integrated modules, database-driven workflows, and user-friendly management tools.
@@ -30,8 +29,7 @@ A web-based clinic management and appointment booking system designed to manage 
 <strong>Vaxis</strong>
 <br>
 A customizable e-commerce and business management platform for sellers and resellers. Features product management, order tracking, sales monitoring, and QR-based GCash payments, helping small businesses manage and grow their online presence.
-<br><br>
-<strong>rear</strong>
+
 <br><br>
 
 <strong>Atomic Bits</strong>
