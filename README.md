@@ -1,7 +1,5 @@
 # About Me:
 
-
-
 ## Renier Tambogon<br>
 crafting code that hopefully works on the first try (spoiler it doesn't). <br>
 learning python, php, and c++ because apparently I hate sleeping.
@@ -95,13 +93,10 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
 
-
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=justbreath00&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=justbreath00&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-
 
