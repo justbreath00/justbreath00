@@ -38,9 +38,10 @@ A customizable e-commerce and business management platform for sellers and resel
 <br>
 Atomic Bits is a modern student productivity platform designed to help learners stay organized and efficient. It brings together class management, subjects, calendars, task tracking, and collaborative tools into one intuitive workspace. With features such as personal and class task management, a Kanban board, scheduling, and a clean, responsive interface, Atomic Bits empowers students to manage their academic responsibilities, improve productivity, and stay focused throughout their educational journey.
 <br>
+<br><br><br>
 -->
 
-<br><br><br><br>probably debugging something right now 💀
+<br>probably debugging something right now 💀
 
 
 ## Socials:
@@ -49,6 +50,7 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool-Ingenuity-4279) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27835202/renier-tambogon) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renierrtambogon@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://reniertambogon.vercel.app/)
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
