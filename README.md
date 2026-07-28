@@ -10,7 +10,7 @@ also I do like learning tech related things, even outside my curriculumn
 if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels
 <br>
 
-
+<!--
 <h3>Currently Working On</h3>
 
 <strong>Arca Online – Inventory Management System</strong>
@@ -38,6 +38,8 @@ A customizable e-commerce and business management platform for sellers and resel
 <br>
 Atomic Bits is a modern student productivity platform designed to help learners stay organized and efficient. It brings together class management, subjects, calendars, task tracking, and collaborative tools into one intuitive workspace. With features such as personal and class task management, a Kanban board, scheduling, and a clean, responsive interface, Atomic Bits empowers students to manage their academic responsibilities, improve productivity, and stay focused throughout their educational journey.
 <br>
+-->
+
 <br><br><br><br>probably debugging something right now 💀
 
 
