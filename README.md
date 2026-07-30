@@ -8,6 +8,7 @@ also I do like learning tech related things, even outside my curriculumn
 <br>
 
 if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels
+visit my portfolio too **Portfolio:** https://reniertambogon.vercel.app
 <br>
 
 <!--
