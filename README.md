@@ -7,7 +7,7 @@ learning python, php, and c++ because apparently I hate sleeping.
 also I do like learning tech related things, even outside my curriculumn
 <br>
 
-if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels
+if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels <br>
 visit my portfolio too **Portfolio:** https://reniertambogon.vercel.app
 <br>
 
