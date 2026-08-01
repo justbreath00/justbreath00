@@ -1,8 +1,8 @@
 # About Me:
 
 
-Renier Jhon Tambogon<br>
-crafting code that hopefully works on the first try (spoiler it doesn't). <br>
+Jhon Renier Tambogon<br>
+Renier for short, crafting code that hopefully works on the first try (spoiler it doesn't). <br>
 learning python, php, and c++ because apparently I hate sleeping.
 also I do like learning tech related things, even outside my curriculumn
 <br>
