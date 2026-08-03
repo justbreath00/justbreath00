@@ -1,6 +1,6 @@
 # About Me
 
-**Jhon Renier Tambogon**
+**Jhon Renier Tambogon** <br>
 *Renier for short.*
 
 I am a BS Information Technology student who enjoys building software, exploring new technologies, and turning ideas into functional applications.
@@ -49,9 +49,6 @@ Atomic Bits is a modern student productivity platform designed to help learners 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/renierjhon.tambogon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renier) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Cool-Ingenuity-4279) 
-
-<!--
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27835202/renier-tambogon) -->
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:renierrtambogon@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4F46E5)](https://reniertambogon.vercel.app)
 
