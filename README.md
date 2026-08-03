@@ -1,15 +1,15 @@
-# About Me:
+# About Me
 
+**Jhon Renier Tambogon**
+*Renier for short.*
 
-Jhon Renier Tambogon<br>
-Renier for short, crafting code that hopefully works on the first try (spoiler it doesn't). <br>
-learning python, php, and c++ because apparently I hate sleeping.
-also I do like learning tech related things, even outside my curriculumn
-<br>
+I am a BS Information Technology student who enjoys building software, exploring new technologies, and turning ideas into functional applications.
 
-if I have spare time I am probably playing some video games or lifting weights to ease up my stress levels <br>
-visit my portfolio too **Portfolio:** https://reniertambogon.vercel.app
-<br>
+I am currently learning and improving my skills in **Python, PHP, C++, Laravel, and web development**. I enjoy exploring technology beyond my curriculum because there is always something new to learn in the world of software development.
+
+Most of the time, I am experimenting with code, building personal projects, and improving my understanding of programming concepts. My goal is to continuously grow as a developer and create solutions that are useful, maintainable, and meaningful.
+
+Outside of technology, I spend my free time playing video games and working out. Gaming helps me relax, while fitness helps me manage stress and stay disciplined.
 
 <!--
 <h3>Currently Working On</h3>
