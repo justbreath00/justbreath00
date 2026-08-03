@@ -2,7 +2,7 @@
 
 # Hi, I'm Jhon Renier Tambogon
 
-### BS Information Technology Student • Full-Stack Web Developer
+### Layout Graphic Artist • Web Developer
 
 Building web applications with **Laravel**, **PHP**, and **PostgreSQL** while continuously learning modern software development and software engineering principles.
 
