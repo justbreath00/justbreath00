@@ -1,7 +1,7 @@
 <div align="center">
-Hi, I'm
-#Jhon Renier Tambogon
 
+# Jhon Renier Tambogon
+<!-- Hi, I'm -->
 ### Layout Graphic Artist • Web Developer
 
 Building web applications with **Laravel**, **PHP**, and **PostgreSQL** while continuously learning modern software development and software engineering principles.
