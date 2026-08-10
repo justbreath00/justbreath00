@@ -1,6 +1,6 @@
 <div align="center">
-
-# Hi, I'm Jhon Renier Tambogon
+Hi, I'm
+#Jhon Renier Tambogon
 
 ### Layout Graphic Artist • Web Developer
 
