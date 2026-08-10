@@ -100,7 +100,7 @@ A Laravel-based productivity and academic collaboration platform that helps stud
 
 A web-based inventory management system built for sari-sari store owners to simplify inventory and product management.
 
-### Dental Clinic Management System
+### Dental Clinic Appointment System
 
 A secure clinic management and appointment booking platform with patient records, scheduling, and administrative tools.
 
