@@ -13,7 +13,7 @@ Currently building **Atomic Bits**, a productivity and academic collaboration pl
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4F46E5?style=for-the-badge)](https://reniertambogon.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renierrtambogon@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/renierjhon.tambogon)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/renier)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://reddit.com/user/Cool-Ingenuity-4279)
 
 </div>
