@@ -102,7 +102,7 @@ A web-based inventory management system built for sari-sari store owners to simp
 
 ### Dental Clinic Appointment System
 
-A secure clinic management and appointment booking platform with patient records, scheduling, and administrative tools.
+A secure clinic management and appointment booking platform with patient records, scheduling, and administrative tools. 
 
 ---
 
