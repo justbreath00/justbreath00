@@ -84,6 +84,8 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=aseprite&logoColor=7D929E)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
 
 </td>
 </tr>
