@@ -113,6 +113,6 @@ A secure clinic management and appointment booking platform with patient records
 <!--   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github-dark" />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1&column=6)
  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1" />  -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github&hide_border=true)
 
 </p>
