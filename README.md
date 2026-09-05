@@ -56,11 +56,11 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 
 <td valign="top" width="33%">
 
-### Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
 ### Development
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
@@ -70,16 +70,18 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-FF8C00?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-181818?style=flat-square&logo=resend&logoColor=white)
 
 </td>
 
 <td valign="top" width="33%">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
 
 ### Other
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -88,23 +90,23 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 </td>
 </tr>
 </table>
----
 
-# Featured Projects
-
+<!-- 
+Featured Projects
+<!-- 
 ### Atomic Bits
-
+<!-- 
 A Laravel-based productivity and academic collaboration platform that helps students manage tasks, organize classes, and collaborate on school projects.
-
+<!-- 
 ### Arca Inventory System
-
+<!-- 
 A web-based inventory management system built for sari-sari store owners to simplify inventory and product management.
-
+<!-- 
 ### Dental Clinic Appointment System
-
+<!-- 
 A secure clinic management and appointment booking platform with patient records, scheduling, and administrative tools. 
-
----
+-->
+---  
 
 # GitHub Statistics
 
@@ -113,7 +115,7 @@ A secure clinic management and appointment booking platform with patient records
 <!--   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github-dark" />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1&column=6)
  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1" />  -->
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+ 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/justbreath00/justbreath00/output/github-contribution-grid-snake.svg)
 
 </p>
