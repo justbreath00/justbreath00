@@ -91,30 +91,11 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 </tr>
 </table>
 
-<!-- 
-Featured Projects
-<!-- 
-### Atomic Bits
-<!-- 
-A Laravel-based productivity and academic collaboration platform that helps students manage tasks, organize classes, and collaborate on school projects.
-<!-- 
-### Arca Inventory System
-<!-- 
-A web-based inventory management system built for sari-sari store owners to simplify inventory and product management.
-<!-- 
-### Dental Clinic Appointment System
-<!-- 
-A secure clinic management and appointment booking platform with patient records, scheduling, and administrative tools. 
--->
 ---  
 
 # GitHub Statistics
 
 <p align="center">
-
-<!--   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=justbreath00&theme=github-dark" />
-![Trophies](https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1&column=6)
- <img width="70%" src="https://github-profile-trophy.vercel.app/?username=justbreath00&theme=darkhub&no-frame=true&row=1" />  -->
  
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/justbreath00/justbreath00/output/github-contribution-grid-snake.svg)
 
