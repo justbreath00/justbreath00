@@ -93,7 +93,7 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 
 ---  
 
-# GitHub Statistics
+# GitHub Activity
 
 <div align="center">
   <img
