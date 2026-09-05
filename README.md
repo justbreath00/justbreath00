@@ -95,6 +95,12 @@ Outside of programming, you'll probably find me playing video games, lifting wei
 
 # GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrueFurina&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph" onerror="this.style.display='none'" />
-</p>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/justbreath00/justbreath00/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</div>
+
+
