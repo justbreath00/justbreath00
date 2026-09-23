@@ -28,7 +28,8 @@ I primarily work with **Laravel**, **PHP**, and **PostgreSQL**, while continuous
 
 Most of my time is spent building personal projects, experimenting with new technologies, and improving my understanding of programming concepts. My goal is to become a better developer by creating software that is useful, maintainable, and solves real-world problems.
 
-Outside of programming, you'll probably find me playing video games, lifting weights. <!-- or debugging something that worked five minutes ago. -->
+Outside of programming, I enjoy playing video games, working out, and spending time drawing or sketching.
+<!-- or debugging something that worked five minutes ago. -->
 
 ---
 
