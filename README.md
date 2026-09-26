@@ -2,11 +2,10 @@
 
 # Jhon Renier Tambogon
 <!-- Hi, I'm -->
-### Layout Graphic Artist • Web Developer
+### Layout Graphic Artist • Backend Web Developer
 
-Building web applications with **Laravel**, **PHP**, and **PostgreSQL** while continuously learning modern software development and software engineering principles.
+I create digital designs and web applications while continuously learning and improving my skills in design, programming, and software development.
 
-Currently building **Atomic Bits**, a productivity and academic collaboration platform that helps students organize their academic work and collaborate on school projects.
 
 <br>
 
