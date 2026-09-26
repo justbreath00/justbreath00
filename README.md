@@ -12,8 +12,6 @@ I create digital designs and web applications while continuously learning and im
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
 
-<br>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-4F46E5?style=for-the-badge)](https://reniertambogon.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renierrtambogon@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/renierjhon.tambogon)
